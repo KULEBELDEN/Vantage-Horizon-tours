@@ -118,7 +118,7 @@ nav {
 .hero {
   position: relative;
   height: 105vh;
-  background: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAFQmzoQlyvWhMdsq3BEdiuQ8DkOcco5ljNPBM0ViVZvyMQ5Nu');
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSinOtXeOAtSodEDLGox9jyyCY8M_Ntr-qcTQ&s');
   background-size: cover;
   background-position: center;
   justify-items: center;
@@ -1243,3 +1243,4 @@ footer {
   font-size: 0.9rem;
 
 }
+
