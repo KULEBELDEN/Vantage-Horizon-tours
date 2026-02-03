@@ -118,7 +118,7 @@ nav {
 .hero {
   position: relative;
   height: 105vh;
-  background: url('images/kide.jpg');
+  background: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAFQmzoQlyvWhMdsq3BEdiuQ8DkOcco5ljNPBM0ViVZvyMQ5Nu');
   background-size: cover;
   background-position: center;
   justify-items: center;
@@ -1241,4 +1241,5 @@ footer {
   text-align: center;
   padding: 35px 20px;
   font-size: 0.9rem;
+
 }
